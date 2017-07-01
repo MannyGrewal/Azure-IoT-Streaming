@@ -1,6 +1,10 @@
 # Azure-IoT-Streaming
 This repository holds the source code for the Azure IoT Hub Streaming Analytics Simulator - an application written by Manny Grewal
 
+More details about the project can be found at this link
+
+https://mannygrewal.wordpress.com/2017/07/01/azure-iot-hub-streaming-analytics-simulator/
+
 
 
 //*********************************************************
