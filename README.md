@@ -6,6 +6,9 @@ More details about the project can be found at this link
 https://mannygrewal.wordpress.com/2017/07/01/azure-iot-hub-streaming-analytics-simulator/
 
 
+![alt text](https://mannygrewal.files.wordpress.com/2017/07/iot-hub1.gif "Azure Simulator")
+
+
 
 //*********************************************************
 
